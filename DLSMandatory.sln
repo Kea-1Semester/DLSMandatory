@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLSMandatoryProject", "DLSMandatoryProject\DLSMandatoryProject\DLSMandatoryProject.csproj", "{B6B9CD64-D292-4BCD-9CFC-7B3A5519290A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLSMandatoryProject.Client", "DLSMandatoryProject\DLSMandatoryProject.Client\DLSMandatoryProject.Client.csproj", "{9B6BD65B-CF5E-4A1E-9AD2-A6C78A188146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B9CD64-D292-4BCD-9CFC-7B3A5519290A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B9CD64-D292-4BCD-9CFC-7B3A5519290A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B9CD64-D292-4BCD-9CFC-7B3A5519290A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B9CD64-D292-4BCD-9CFC-7B3A5519290A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6BD65B-CF5E-4A1E-9AD2-A6C78A188146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6BD65B-CF5E-4A1E-9AD2-A6C78A188146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6BD65B-CF5E-4A1E-9AD2-A6C78A188146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6BD65B-CF5E-4A1E-9AD2-A6C78A188146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A78ABD-74CA-47F5-A3E5-F93EF63F9818}
+	EndGlobalSection
+EndGlobal
